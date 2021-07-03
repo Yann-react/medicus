@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194303710597",
+    "project_id": "react-natives-projects",
+    "storage_bucket": "react-natives-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194303710597:android:336ad37e2c918c881f20ec",
+        "android_client_info": {
+          "package_name": "com.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194303710597-db491e8jue9pkitld70qc5mvbvcq4u2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8d2DNRZ7_sEFlMZy84PSIkGKF-pDnPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194303710597-db491e8jue9pkitld70qc5mvbvcq4u2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
