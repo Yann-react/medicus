@@ -106,10 +106,7 @@ const Profile = (props) => {
                     Date de naissance
                     </Text></View>
 
-                    
 
-
-                    
                     <View style={{
                     marginTop:20,
                     borderBottomWidth:2,
