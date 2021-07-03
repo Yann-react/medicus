@@ -107,6 +107,9 @@ const Profile = (props) => {
                     </Text></View>
 
                     
+
+
+                    
                     <View style={{
                     marginTop:20,
                     borderBottomWidth:2,
